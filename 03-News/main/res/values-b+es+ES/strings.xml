@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aplicación de Noticias Sencillas</string>
+    <string name="newsTitle">Título de la Noticia</string>
+    <string name="newsArticle">Artículo de Noticias</string>
+    <string name="saveNews">Guardar Noticias</string>
+    <string name="addNews">Agregar Noticias</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Activity Intent 672019084</string>
+    <string name="username">Username</string>
+    <string name="fullname">Full Name</string>
+    <string name="password">Password</string>
+    <string name="con_pass">Confirm Password</string>
+    <string name="registration">Registration</string>
+    <string name="login">Login</string>
+</resources>

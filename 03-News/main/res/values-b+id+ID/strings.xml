@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aplikasi Berita Sederhana</string>
+    <string name="newsTitle">Judul Berita</string>
+    <string name="newsArticle">Isi Artikel</string>
+    <string name="saveNews">Simpan Berita</string>
+    <string name="addNews">Tambah Berita</string>
+</resources>
